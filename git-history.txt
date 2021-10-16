@@ -1,0 +1,49 @@
+    1* 
+    2  cd ifksp/markmikma.github.io/test-repo1/
+    3  ls
+    4  pwd
+    5  git add .gitignore.txt
+    6  git commit .gitignore.txt -m "uzenet"
+    7  git add data
+    8  git cd C:\Users\Admin\OneDrive\Dokumentumok\data
+    9  git cd C:/Users/Admin/OneDrive/Dokumentumok/data
+   10  git add C:/Users/Admin/OneDrive/Dokumentumok/data
+   11  pwd
+   12  exit
+   13  pwd
+   14  git cd C:/Users/Admin/OneDrive/Dokumentumok/data
+   15  git cd C:/Users/Admin/OneDrive/Dokumentumok/data
+   16  pwd
+   17  ls
+   18  cd Documents/data
+   19   cd C:/Users/Admin/OneDrive/Dokumentumok/data
+   20  pws
+   21  pwd
+   22  ls
+   23  git commit lorem.txt -m "anyad"
+   24  rm lorem.txt lorem_ipsum.txt
+   25  mv lorem.txt lorem_ipsum.txt
+   26  ls
+   27  ld
+   28  ls
+   29  mv lorem.txt lorem_ipsum.txt
+   30  ls
+   31  git commit lorem_ipsum.txt -m "baszki"
+   32  git add lorem_ispum.txt
+   33  pwd
+   34  ls
+   35  git add lorem_ipsum.txt
+   36  git commit lorem_ipsum.txt
+   37  git commit lorem_ipsum.txt -m "baszki"
+   38  git push
+   39  git push git-started-general-markmikma https://github.com/markmikma/git-started-general-markmikma.git
+   40  git push git-started-general-markmikma https://github.com/markmikma/git-started-general-markmikma.git
+   41  git push git-started-general-markmikma https://github.com/markmikma/git-started-general-markmikma.git
+   42  git push git-started-general-markmikma git@github.com:markmikma/git-started-general-markmikma.git
+   43  git push https://github.com/markmikma/git-started-general-markmikma.git
+   44  git push --set-upstream https://github.com/markmikma/git-started-general-markmikma.git
+   45  git push --set-upstream https://github.com/markmikma/git-started-general-markmikma.git master
+   46  history
+   47  cp history.txt
+   48  history
+   49  history > git-history.txt
